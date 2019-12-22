@@ -6,7 +6,7 @@ Get the current price of bitcoin with JAVA!
 
 ### UI🔧
 
-![UI screenshot](screenshots/mainWindow.png)
+![UI screenshot](screenshots/mainWindow.PNG)
 
 ###  How to Import to Netbeans🔌
 1. **Fork** it! 
